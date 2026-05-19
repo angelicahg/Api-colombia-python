@@ -23,7 +23,7 @@ API REST
 
 📦 Instalación
 1. Clonar el repositorio
-git clone https://github.com/usuario/nombre-repositorio.git
+git clone https://github.com/angelicahg/Api-colombia-python.git
 
 2. Entrar al proyecto
 cd nombre-repositorio
